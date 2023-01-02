@@ -1,8 +1,8 @@
+# This app make GUI and show motvation quotes from BrainyQuote.com and send it to your phone, email or SharePoint list
+# Author: Šimon Ochotnický
+
 import Twilio
 import tkinter
-
-
-#wdokyrgfyklguqnv
 
 account_sid = 'TWILIO_SSID'
 auth_token = 'TWILIO_TOKEN'
